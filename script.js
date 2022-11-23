@@ -4,7 +4,7 @@
 
 user = {
 	username: "Tobias",
-	passwrod: "Shepoopy",
+	passwrod: "Shelooky",
 }
 
 
